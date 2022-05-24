@@ -1,0 +1,22 @@
+body {
+  margin: 10vh 40vw;
+  text-align: center;
+}
+
+.itens {
+  background:#424250;
+}
+.cabecalho {
+  font-weight: bold;
+  text-align: center;
+}
+th, td {
+  color: #ffffff;
+  padding: 0.5rem;
+}
+.moda {
+  background-color: #BB86FC;
+}
+.casa {
+  background-color: #00C4B4;
+}
